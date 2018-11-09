@@ -1,7 +1,7 @@
 // const MongoClient = require('mongodb').MongoClient;
 const {MongoClient, ObjectID} = require('mongodb');
 
-// Generating ObjectId for Document 
+// Generating ObjectId for Document
 // var obj = new ObjectID();
 // console.log(obj);
 
